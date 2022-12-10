@@ -8,6 +8,33 @@
   pointer-events: none;
 }
 
+.navbar_padding {
+  padding: 24px 72px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+.sidebar {
+  width: 25rem;
+}
+
+.line-width {
+  margin: 0px 75px;
+}
+
+.location-text {
+  font-size: 12px;
+}
+
+.card-width {
+  width: 1000px;
+}
+
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
